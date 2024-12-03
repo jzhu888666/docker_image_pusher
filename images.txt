@@ -1,3 +1,4 @@
+quay.io/minio/minio:latest
 xiaoyaliu/alist:latest
 crosscc/umi-ocr:latest
 yzy613/umi-ocr-paddle:2.1.4
