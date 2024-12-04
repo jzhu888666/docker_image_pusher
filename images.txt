@@ -1,3 +1,4 @@
+tobyxdd/hysteria:latest
 gzxhwq/sing-box:latest
 centralx/clash:latest
 quay.io/minio/minio:latest
