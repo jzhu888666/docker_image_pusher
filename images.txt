@@ -1,3 +1,4 @@
+justsong/one-api:latest
 zzsrv/openwrt:latest
 tobyxdd/hysteria:latest
 gzxhwq/sing-box:latest
