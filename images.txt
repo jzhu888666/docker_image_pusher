@@ -1,3 +1,4 @@
+xprobe/xinference:latest
 searxng/searxng:latest
 justsong/one-api:latest
 zzsrv/openwrt:latest
