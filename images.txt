@@ -1,3 +1,4 @@
+lobehub/lobe-chat:latest
 gdy666/lucky:latest
 xprobe/xinference:latest
 searxng/searxng:latest
