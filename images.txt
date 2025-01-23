@@ -34,7 +34,6 @@ linuxserver/webtop:latest
 mongo:4.4
 portainer/portainer-ce:latest
 sleikang/media_server_tools:latest
-superng6/aria2:a2b-latest
 talebook/talebook:latest
 vaultwarden/server:latest
 whyour/qinglong:latest
