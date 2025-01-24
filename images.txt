@@ -1,3 +1,4 @@
+ollama/ollama:latest
 johngong/aria2:latest
 rustdesk/rustdesk-server:latest
 lobehub/lobe-chat:latest
