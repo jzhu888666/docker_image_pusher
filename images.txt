@@ -1,3 +1,4 @@
+ghcr.io/open-webui/open-webui:main
 ollama/ollama:latest
 johngong/aria2:latest
 rustdesk/rustdesk-server:latest
