@@ -1,3 +1,4 @@
+jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 fugary/simple-boot-douban-api:latest
 ghcr.io/open-webui/open-webui:ollama
