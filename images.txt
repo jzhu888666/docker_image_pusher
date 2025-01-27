@@ -1,3 +1,4 @@
+fugary/simple-boot-douban-api:latest
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/cxfksword/douban-api-rs:latest
 ghcr.io/open-webui/open-webui:main
