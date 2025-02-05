@@ -1,3 +1,4 @@
+byaidu/pdf2zh:latest
 iyuucn/iyuuplus-dev:latest
 iyuucn/iyuuplus:latest
 jxxghp/moviepilot-v2:latest
