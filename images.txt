@@ -1,3 +1,5 @@
+postgres:16.8
+lobehub/lobe-chat-database:latest
 lobehub/lobe-chat:latest
 yukiojieri/pdf2zh:latest
 iyuucn/iyuuplus-dev:latest
