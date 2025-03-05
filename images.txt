@@ -1,3 +1,4 @@
+chromadb/chroma:latest
 python:3.11-slim-buster
 debian:11-slim
 pgvector/pgvector:pg16
