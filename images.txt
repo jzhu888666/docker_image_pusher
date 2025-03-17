@@ -1,4 +1,4 @@
-linuxserver/webtop:ubuntu-xfce
+linuxserver/webtop:05f32cdf-ls134
 chromadb/chroma:latest
 python:3.11-slim-buster
 debian:11-slim
