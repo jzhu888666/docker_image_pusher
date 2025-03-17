@@ -1,4 +1,3 @@
-m1k1o/neko:latest
 chromadb/chroma:latest
 python:3.11-slim-buster
 debian:11-slim
