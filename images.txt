@@ -1,3 +1,4 @@
+diygod/rsshub:latest
 freshrss/freshrss:latest
 cooderl/wewe-rss-sqlite:latest
 kuingsmile/piclist:latest
