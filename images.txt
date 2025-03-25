@@ -1,4 +1,4 @@
-diygod/rsshub:chromium-bundled:latest
+diygod/rsshub:chromium-bundled
 freshrss/freshrss:latest
 cooderl/wewe-rss-sqlite:latest
 kuingsmile/piclist:latest
