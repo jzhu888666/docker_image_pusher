@@ -1,3 +1,4 @@
+freshrss/freshrss:latest
 cooderl/wewe-rss-sqlite:latest
 kuingsmile/piclist:latest
 linuxserver/webtop:05f32cdf-ls134
