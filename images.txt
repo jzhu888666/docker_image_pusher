@@ -1,3 +1,4 @@
+xhongc/music_tag_web:latest
 n8nio/n8n:latest
 diygod/rsshub:chromium-bundled
 freshrss/freshrss:latest
