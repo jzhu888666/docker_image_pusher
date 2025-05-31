@@ -1,3 +1,4 @@
+johngong/baidunetdisk:latest
 diygod/rsshub:chromium-bundled
 bililive/recorder:latest
 chromadb/chroma:0.6.3
@@ -23,7 +24,6 @@ emby/embyserver:beta
 flaresolverr/flaresolverr:latest
 frooodle/s-pdf:latest
 hectorqin/reader:latest
-johngong/baidunetdisk:latest
 linuxserver/jackett:latest
 linuxserver/prowlarr:latest
 linuxserver/qbittorrent:latest
