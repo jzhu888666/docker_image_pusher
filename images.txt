@@ -1,8 +1,6 @@
-johngong/baidunetdisk:latest
 diygod/rsshub:chromium-bundled
 bililive/recorder:latest
 chromadb/chroma:0.6.3
-bestrui/baidu:latest
 n8nio/n8n:latest
 kuingsmile/piclist:latest
 pgvector/pgvector:pg16
