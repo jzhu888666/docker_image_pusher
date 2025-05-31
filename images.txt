@@ -1,3 +1,4 @@
+diygod/rsshub:chromium-bundled
 bililive/recorder:latest
 chromadb/chroma:0.6.3
 bestrui/baidu:latest
