@@ -1,3 +1,5 @@
+renmu1234/bililive-tools-backend:latest
+renmu1234/bililive-tools-frontend:latest
 johngong/baidunetdisk:latest
 diygod/rsshub:chromium-bundled
 bililive/recorder:latest
