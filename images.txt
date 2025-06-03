@@ -1,3 +1,4 @@
+amilys/embyserver:beta
 renmu1234/bililive-tools-backend:latest
 renmu1234/bililive-tools-frontend:latest
 johngong/baidunetdisk:latest
@@ -36,4 +37,3 @@ talebook/talebook:latest
 vaultwarden/server:latest
 whyour/qinglong:latest
 xhofe/alist:latest
-xinjiawei1/emby_unlockd:latest
