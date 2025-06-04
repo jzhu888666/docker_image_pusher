@@ -1,4 +1,4 @@
-rustdekk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
 stirlingtools/stirling-pdf:latest
 amilys/embyserver:beta
 renmu1234/bililive-tools-backend:latest
