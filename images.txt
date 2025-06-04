@@ -1,3 +1,4 @@
+metacubex/mihomo:latest
 rustdesk/rustdesk-server:latest
 stirlingtools/stirling-pdf:latest
 amilys/embyserver:beta
