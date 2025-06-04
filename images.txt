@@ -1,3 +1,4 @@
+stirlingtools/stirling-pdf:latest
 amilys/embyserver:beta
 renmu1234/bililive-tools-backend:latest
 renmu1234/bililive-tools-frontend:latest
@@ -25,7 +26,6 @@ containrrr/watchtower:latest
 deluan/navidrome:latest
 emby/embyserver:beta
 flaresolverr/flaresolverr:latest
-frooodle/s-pdf:latest
 hectorqin/reader:latest
 linuxserver/jackett:latest
 linuxserver/prowlarr:latest
