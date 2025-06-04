@@ -1,3 +1,4 @@
+ghcr.io/metacubex/metacubexd:latest
 metacubex/mihomo:latest
 rustdesk/rustdesk-server:latest
 stirlingtools/stirling-pdf:latest
