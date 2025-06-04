@@ -1,5 +1,5 @@
 ghcr.io/metacubex/metacubexd:latest
-metacubex/mihomo:latest
+metacubex/mihomo:Alpha
 rustdesk/rustdesk-server:latest
 stirlingtools/stirling-pdf:latest
 amilys/embyserver:beta
