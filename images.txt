@@ -1,3 +1,5 @@
+netdata/netdata:latest
+linuxserver/duplicati:latest
 ghcr.io/metacubex/metacubexd:latest
 metacubex/mihomo:Alpha
 rustdesk/rustdesk-server:latest
