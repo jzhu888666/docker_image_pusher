@@ -41,4 +41,3 @@ portainer/portainer-ce:latest
 talebook/talebook:latest
 vaultwarden/server:latest
 whyour/qinglong:latest
-xhofe/alist:latest
