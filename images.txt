@@ -1,3 +1,4 @@
+justsong/one-api:latest
 jlesage/freefilesync:latest
 netdata/netdata:latest
 ghcr.io/metacubex/metacubexd:latest
