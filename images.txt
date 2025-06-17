@@ -1,3 +1,5 @@
+redis:7.2-alpine
+mongo:4.4.29
 justsong/one-api:latest
 jlesage/freefilesync:latest
 netdata/netdata:latest
