@@ -1,3 +1,4 @@
+ghcr.io/labring/aiproxy:v0.1.7
 redis:7.2-alpine
 mongo:4.4.29
 justsong/one-api:latest
