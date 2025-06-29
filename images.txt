@@ -1,3 +1,4 @@
+openlistteam/openlist:latest
 jlesage/freefilesync:latest
 netdata/netdata:latest
 ghcr.io/metacubex/metacubexd:latest
