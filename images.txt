@@ -1,4 +1,4 @@
-redis:6.2.19
+redis:7-alpine
 mysql/mysql-server:8.0.32
 ghcr.io/koodo-reader/koodo-reader:master
 mongo:8.0.11
