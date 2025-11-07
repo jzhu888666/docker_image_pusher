@@ -1,4 +1,4 @@
-vllm/vllm:latest
+vllm/vllm-openai:nightly-x86_64
 nginx:alpine
 adminer:latest
 redis:7-alpine
