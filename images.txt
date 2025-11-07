@@ -1,3 +1,4 @@
+vllm/vllm:latest
 nginx:alpine
 adminer:latest
 redis:7-alpine
