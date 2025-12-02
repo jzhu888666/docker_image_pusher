@@ -1,3 +1,4 @@
+blowsnow/n8n-chinese
 nginx:alpine
 adminer:latest
 redis:7-alpine
