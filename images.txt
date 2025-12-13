@@ -1,3 +1,4 @@
+qdrant/qdrant
 blowsnow/n8n-chinese
 nginx:alpine
 adminer:latest
