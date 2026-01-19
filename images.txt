@@ -1,3 +1,5 @@
+selenium/node-chrome:nightly
+selenium/hub:latest
 qdrant/qdrant
 blowsnow/n8n-chinese
 nginx:alpine
