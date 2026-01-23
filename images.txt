@@ -1,7 +1,5 @@
-selenium/hub:4.15.0
-selenium/node-chrome:4.15.0
-selenium/node-chrome:nightly
-selenium/hub:latest
+selenium/node-chrome:144.0-chromedriver-144.0-grid-4.40.0-20260120
+selenium/hub:4.40.0
 qdrant/qdrant
 blowsnow/n8n-chinese
 nginx:alpine
