@@ -1,3 +1,4 @@
+vllm/vllm-openai:latest
 selenium/node-chrome:144.0-chromedriver-144.0-grid-4.40.0-20260120
 selenium/hub:4.40.0-20260120
 qdrant/qdrant
