@@ -1,13 +1,14 @@
 quay.io/minio/mc:latest
 tailscale/tailscale:latest
 pgvector/pgvector:pg17
+postgres:17
 selenium/node-chrome:144.0-chromedriver-144.0-grid-4.40.0-20260120
 selenium/hub:4.40.0-20260120
 qdrant/qdrant
 blowsnow/n8n-chinese
 nginx:alpine
 adminer:latest
-redis:7-alpine
+redis:7
 mysql/mysql-server:8.0.32
 ghcr.io/koodo-reader/koodo-reader:master
 mongo:8.0.11
@@ -28,7 +29,7 @@ chromadb/chroma:0.6.3
 n8nio/n8n:latest
 kuingsmile/piclist:latest
 pgvector/pgvector:pg16
-postgres:16.8
+postgres:16
 yukiojieri/pdf2zh:latest
 iyuucn/iyuuplus-dev:latest
 jxxghp/moviepilot-v2:latest
