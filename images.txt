@@ -45,7 +45,6 @@ containrrr/watchtower:latest
 deluan/navidrome:latest
 emby/embyserver:beta
 flaresolverr/flaresolverr:latest
-hectorqin/reader:latest
 linuxserver/jackett:latest
 linuxserver/prowlarr:latest
 linuxserver/qbittorrent:latest
