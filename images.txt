@@ -1,3 +1,5 @@
+hbq0405/emby-toolkit:latest
+postgres:18
 quay.io/minio/mc:latest
 tailscale/tailscale:latest
 pgvector/pgvector:pg17
