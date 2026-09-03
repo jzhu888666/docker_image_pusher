@@ -1,6 +1,9 @@
 hbq0405/emby-toolkit:latest
 postgres:18
 quay.io/minio/mc:latest
+quay.io/minio/mc:RELEASE.2025-04-16T18-13-26Z
+quay.io/minio/minio:latest
+quay.io/minio/minio:RELEASE.2025-04-22T22-12-26Z
 tailscale/tailscale:latest
 pgvector/pgvector:pg17
 postgres:17
@@ -38,7 +41,7 @@ jxxghp/moviepilot-v2:latest
 fugary/simple-boot-douban-api:latest
 ollama/ollama:latest
 johngong/aria2:latest
-quay.io/minio/minio:latest
+
 xiaoyaliu/alist:latest
 quay.io/coreos/etcd:v3.5.5
 milvusdb/milvus:v2.5.0-beta
