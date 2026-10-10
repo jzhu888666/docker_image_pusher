@@ -1,9 +1,9 @@
 guovern/iptv-api
 postgres:18
-minio/mc:latest
-minio/mc:RELEASE.2025-04-16T18-13-26Z
-minio/minio:latest
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+pgsty/mc:latest
+pgsty/mc:RELEASE.2026-09-16T00-00-00Z
+pgsty/minio:latest
+pgsty/minio:RELEASE.2026-08-04T00-00-00Z
 tailscale/tailscale:latest
 pgvector/pgvector:pg17
 postgres:17
@@ -42,7 +42,7 @@ fugary/simple-boot-douban-api:latest
 ollama/ollama:latest
 johngong/aria2:latest
 xiaoyaliu/alist:latest
-coreos/etcd:v3.5.5
+gcr.io/etcd-development/etcd:v3.5.5
 milvusdb/milvus:v2.5.0-beta
 allanpk716/chinesesubfinder:latest
 containrrr/watchtower:latest
