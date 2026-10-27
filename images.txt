@@ -1,3 +1,4 @@
+amilys/embyserver:latest
 emby/embyserver:latest
 guovern/iptv-api
 postgres:18
