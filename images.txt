@@ -1,3 +1,4 @@
+emby/embyserver:latest
 guovern/iptv-api
 postgres:18
 pgsty/mc:latest
@@ -47,7 +48,6 @@ milvusdb/milvus:v2.5.0-beta
 allanpk716/chinesesubfinder:latest
 containrrr/watchtower:latest
 deluan/navidrome:latest
-emby/embyserver:beta
 flaresolverr/flaresolverr:latest
 linuxserver/jackett:latest
 linuxserver/prowlarr:latest
